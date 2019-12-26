@@ -1,0 +1,12 @@
+C:\proyectos\AolicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe.config
+C:\proyectos\AolicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe
+C:\proyectos\AolicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.pdb
+C:\proyectos\AolicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.csprojAssemblyReference.cache
+C:\proyectos\AolicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.exe
+C:\proyectos\AolicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.pdb
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe.config
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.pdb
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.csprojAssemblyReference.cache
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.exe
+C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.pdb
