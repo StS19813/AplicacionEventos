@@ -49,6 +49,7 @@
     <Compile Include="Logica\ClsAsignacionTextoEvento.cs" />
     <Compile Include="Logica\ClsCompararEvento.cs" />
     <Compile Include="Logica\ClsDias.cs" />
+    <Compile Include="Logica\ClsEvaluarTextoTiempo.cs" />
     <Compile Include="Logica\ClsHoras.cs" />
     <Compile Include="Logica\ClsLeerDocumento.cs" />
     <Compile Include="Logica\ClsMinutos.cs" />

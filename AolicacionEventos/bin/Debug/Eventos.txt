@@ -2,3 +2,5 @@ mi cumple,16/11/2019
 Navidad   ,25/12/2019
 año nuevo,01/01/2020 5:33:45 a. m.
 san valentin,14/02/2020
+fin curso, 27/12,2019
+otro evento, 28/12,2019

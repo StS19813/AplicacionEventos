@@ -13,9 +13,9 @@ namespace AolicacionEventos.Logica
         /// </summary>
         /// <param name="tsDiferencia"> contiene la diferencia de la fecha del evento con la fecha actual en minutos.</param>
         /// <returns></returns>
-        public int Minutos(TimeSpan tsDiferencia)
+        public double Minutos(TimeSpan tsDiferencia)
         {
-            int cadena = Math.Abs(tsDiferencia.Minutes);
+            double cadena = Math.Abs(tsDiferencia.TotalMinutes);
 
             return cadena;
         }

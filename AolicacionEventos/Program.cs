@@ -22,15 +22,15 @@ namespace AolicacionEventos
             ClsCompararEvento oTextoEvento = new ClsCompararEvento();
             ClsObtencionDiferenciaTiempo oDiferencia = new ClsObtencionDiferenciaTiempo();
 
+            Console.BackgroundColor = ConsoleColor.Yellow;
             ClsTexto oTexto = new ClsTexto();
-
             foreach (var i in lstEventos)
             {
                 oTexto.cNombreEvento = i.cNombreEvento;
                 oTexto.cTiempoEvento= oTextoEvento.Comparar(i.dtFechaEvento);
                 oTexto.cTiempoRestanteEvento = oDiferencia.CalcularDiferencia(i.dtFechaEvento);
 
-                Console.WriteLine(oTexto.cNombreEvento +"\t"+ oTexto.cTiempoEvento+ "\t"+oTexto.cTiempoRestanteEvento);
+                Console.WriteLine("  "+oTexto.cNombreEvento +"\t"+ oTexto.cTiempoEvento+ "\t"+oTexto.cTiempoRestanteEvento);
             }
 
 

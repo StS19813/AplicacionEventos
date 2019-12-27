@@ -19,11 +19,14 @@ namespace AolicacionEventos.Logica
         public string  CalcularDiferencia(DateTime dtFechaEvento)
         {
             tsDiasDiferencia = DateTime.Now - dtFechaEvento;
-            ClsDias clsDias = new ClsDias();
+            ClsMinutos clsDias = new ClsMinutos();
 
-            string Tiempo= clsDias.Dias(tsDiasDiferencia).ToString();
+            double Tiempo= clsDias.Minutos(tsDiasDiferencia);
 
-            return Tiempo;
+            ClsEvaluarTextoTiempo oTextoTiempo = new ClsEvaluarTextoTiempo();
+            
+
+            return oTextoTiempo.DarFormato(Tiempo);
         }
 
     }

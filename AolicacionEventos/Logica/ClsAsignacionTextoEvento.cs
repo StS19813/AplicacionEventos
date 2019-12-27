@@ -20,12 +20,15 @@ namespace AolicacionEventos.Logica
             string cCadena =string.Empty;
 
             if (iResult < 0)
+            {
                 cCadena = "ocurrirá dentro de: ";
-            else if (iResult == 0)
-                cCadena = "es hoy";
+                Console.ForegroundColor = ConsoleColor.DarkBlue;
+            }
             else
+            {
                 cCadena = "Ocurrió hace:      ";
-
+                Console.ForegroundColor = ConsoleColor.DarkRed;
+            }
             return cCadena;
 
         }
