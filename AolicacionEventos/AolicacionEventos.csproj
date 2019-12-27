@@ -43,11 +43,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\ICompararEvento.cs" />
+    <Compile Include="Interfaces\ILector.cs" />
+    <Compile Include="Interfaces\IVisualizar.cs" />
+    <Compile Include="Logica\ClsAsignacionTextoEvento.cs" />
+    <Compile Include="Logica\ClsCompararEvento.cs" />
+    <Compile Include="Logica\ClsDias.cs" />
+    <Compile Include="Logica\ClsHoras.cs" />
+    <Compile Include="Logica\ClsLeerDocumento.cs" />
+    <Compile Include="Logica\ClsMinutos.cs" />
+    <Compile Include="Logica\ClsObtencionDiferenciaTiempo.cs" />
+    <Compile Include="Logica\ClsObtencionFecha.cs" />
+    <Compile Include="Objetos\ClsEventos.cs" />
+    <Compile Include="Objetos\ClsTexto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

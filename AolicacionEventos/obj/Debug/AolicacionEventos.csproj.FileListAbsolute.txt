@@ -10,3 +10,15 @@ C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\bin\Deb
 C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.csprojAssemblyReference.cache
 C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.exe
 C:\Users\jose1\Source\Repos\StS19813\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.pdb
+C:\proyectos\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe.config
+C:\proyectos\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe
+C:\proyectos\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.pdb
+C:\proyectos\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.csprojAssemblyReference.cache
+C:\proyectos\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.exe
+C:\proyectos\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.pdb
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe.config
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.exe
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\bin\Debug\AolicacionEventos.pdb
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.csprojAssemblyReference.cache
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.exe
+C:\Users\jose1\Downloads\AplicacionEventos\AolicacionEventos\obj\Debug\AolicacionEventos.pdb
